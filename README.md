@@ -25,7 +25,7 @@ The "Astropixels" tool doesn't cover:
 
 These feaures can be subject for further tool development. However their lack in this tool means, that the relevant computations have been produced already in the "Ephemeris" section of the Astropixels.com service and visitors can find them quickly.
 
-The tool comes in version 1 (v1.0). 
+The tool came in version 1 (v1.0). The current version 1.1 includes the calculation of the equation of time for solar ephemeris.
 
 Getting the data is a simple process, which has been shown in the "Readme" sheet. You must copy the relevant sections to the clipboard only. No need to paste it to the Excel. Just click "GET DATA" and the tool will do the rest for you. 
 
